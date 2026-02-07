@@ -1,0 +1,7 @@
+alice@example.com
+bob@gmail.com
+invalid-email
+john@doe.com
+123@abc.com
+wrong@.com
+alice@example.com
