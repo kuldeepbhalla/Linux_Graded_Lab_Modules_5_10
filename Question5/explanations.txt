@@ -1,0 +1,3 @@
+Command: ./sync.sh dirA dirB
+Explanation: Script compared files in dirA and dirB. Listed files only in dirA, only in dirB, and checked files with same name for content match.
+Observation: Output correctly displayed differences and similarities. Verified with test files in both directories.

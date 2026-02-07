@@ -1,0 +1,4 @@
+Question 1 — analyze.sh
+Command: ./analyze.sh sample.txt
+Explanation: Ran analyze.sh on sample.txt. Script displayed word count and lines with numbers.
+Observation: Output matched expected results.

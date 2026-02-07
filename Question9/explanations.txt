@@ -1,0 +1,3 @@
+Command: ./zombie_prevention
+Explanation: Compiled and ran zombie_prevention.c to create multiple child processes. Parent waited for children to exit to prevent zombies, printing PIDs of reaped children.
+Observation: Verified child and parent messages in terminal. Confirmed no zombie processes remained.

@@ -1,0 +1,3 @@
+Command: ./emailcleaner.sh emails.txt
+Explanation: Script filtered emails into valid.txt and invalid.txt using regex. Removed duplicates from valid.txt.
+Observation: Files valid.txt and invalid.txt created. Checked that duplicates were removed and format matches requirements.

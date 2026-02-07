@@ -1,0 +1,3 @@
+Command: ./log_analyzer.sh system.log
+Explanation: Ran log_analyzer.sh to analyze system.log. The script counted total entries, INFO, WARNING, ERROR logs, and displayed the most recent ERROR.
+Observation: Output printed to terminal and created report file logsummary_<date>.txt. Verified file content matches expected counts.

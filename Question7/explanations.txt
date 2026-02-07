@@ -1,0 +1,3 @@
+Command: ./patterns.sh input.txt
+Explanation: Script classified words into vowels.txt (only vowels), consonants.txt (only consonants), and mixed.txt (starting with consonant, containing vowels).
+Observation: Output files created as expected. Checked contents match word classification rules.

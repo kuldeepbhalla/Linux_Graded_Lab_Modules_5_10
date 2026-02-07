@@ -1,0 +1,3 @@
+Command: ./signal_handling
+Explanation: Compiled and ran signal_handling.c. Parent process ran indefinitely, children sent SIGTERM (after 5 sec) and SIGINT (after 10 sec). Parent handled signals differently.
+Observation: Terminal showed correct reception of SIGTERM and SIGINT. Verified parent exited gracefully after SIGTERM.

@@ -1,0 +1,3 @@
+Command: ./bg_move.sh testdir
+Explanation: Script moved all files from testdir to testdir/backup/ in the background. Displayed PID of each background process.
+Observation: Verified all files moved correctly. PIDs of background processes displayed. Checked backup folder contains all files.

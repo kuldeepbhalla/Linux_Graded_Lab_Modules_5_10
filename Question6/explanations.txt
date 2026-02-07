@@ -1,0 +1,3 @@
+Command: ./metrics.sh input.txt
+Explanation: Script analyzed input.txt to find longest word, shortest word, average word length, and total unique words.
+Observation: Verified output matched expected calculations. Checked correctness of unique word count and word lengths.

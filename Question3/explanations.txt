@@ -1,0 +1,4 @@
+Command: ./validate_results.sh marks.txt
+Explanation: Script checked student marks. Printed students who failed exactly one subject, and students who passed all subjects.
+Observation: Count of students in each category displayed correctly. Verified with marks.txt data.
+
